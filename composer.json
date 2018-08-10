@@ -1,0 +1,15 @@
+{
+    "name": "pavelmartysiuk/kisi",
+    "description": "Kisi automation tests project",
+    "require": {
+        "codeception/codeception": "^2.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pavel Martysiuk",
+            "email": "pmartysiuk@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
